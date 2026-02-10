@@ -57,6 +57,9 @@ Accepts exactly one key in the request body:
 
 ---
 
+GET https://bfhl-api-ysqe.onrender.com/health
+POST https://bfhl-api-ysqe.onrender.com/bfhl
+
 ## Author
 
 Chandra Shekhar Kumar
